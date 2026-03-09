@@ -1,0 +1,16 @@
+{
+    "cachorro": {
+        "nome": "scooby doo",
+        "idade": 7,
+        "raca": "Dogue Alemão",
+        "vacinado": true,
+        "peso": 25,
+        "brinquedos": ["bola", "osso", "frisbee"],
+        "dono": {
+            "nome": "Ana julia",
+            "telefone": "11 965703699"
+
+
+        }    
+    }
+}
